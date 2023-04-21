@@ -1,2 +1,3 @@
 # My_project
-Virtual mouse using hand gestures
+Hackathon 2.0
+
